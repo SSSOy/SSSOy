@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi👋 I am Park Soyoung!
+
+🏫 Mirim Girls' Information Science Highschool
+
 
 ![SSSOy's github stats](https://github-readme-stats.vercel.app/api?username=SSSOy&show_icons=true)
 
