@@ -7,6 +7,7 @@
 - 👩‍💻 I mainly use and Java, C, PHP.
 - 📖 I'm interested about Database and new technology.
 
+##### 📃 [Notion Portfolio](https://www.notion.so/Park-Soyoung-e642aba4af5546b3a323bb66cf3bd5d9)
 
 ![SSSOy's github stats](https://github-readme-stats.vercel.app/api?username=SSSOy&show_icons=true)
 
