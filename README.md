@@ -1,6 +1,11 @@
-### Hi👋 I am Park Soyoung!
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=SSSOy's%20github&fontSize=90)
 
-🏫 Mirim Girls' Information Science Highschool
+### Hi👋 I am Soyoung, Park!
+
+- 🏫 Mirim Girls' Information Science High School
+- 🌱 I’m currently learning Back-end part.
+- 👩‍💻 I mainly use and Java, C, PHP.
+- 📖 I'm interested about Database and new technology.
 
 
 ![SSSOy's github stats](https://github-readme-stats.vercel.app/api?username=SSSOy&show_icons=true)
