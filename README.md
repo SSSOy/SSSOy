@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=ffc77b&height=100&section=&text=SSSOy's%20github&fontSize=30&fontAlign=85)
+![header](https://capsule-render.vercel.app/api?type=rect&color=ffc77b&height=80&section=header)
 
 ### Hi👋 I am Soyoung, Park!
 
