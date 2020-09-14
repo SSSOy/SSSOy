@@ -11,6 +11,7 @@
 
 ![SSSOy's github stats](https://github-readme-stats.vercel.app/api?username=SSSOy&show_icons=true)
 
+<script src="https://gist.github.com/SSSOy/e91c288d4fb74c94a16c073ddc2940fd.js"></script>
 
 <!--
 **SSSOy/SSSOy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
